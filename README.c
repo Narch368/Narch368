@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @Narch368
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Narch
+- 👀 I’m interested in Web Development in ASP.NET
+- 🌱 I’m currently learning ... My 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... narch.workspace@gmail.com
 
-<!---
-Narch368/Narch368 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-#include<stdio.h>
-int mail(){
-printf("naren");
-return 0;
-}
+public void Call(){
+ console.WriteLine("I love to  Develope my KNOWLEDGE");
+   }
